@@ -38,3 +38,8 @@
   .p-1 {
     padding: 1px;
   }
+
+  input{
+    display: block;
+    margin: 5px;
+  }
